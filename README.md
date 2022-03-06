@@ -35,7 +35,7 @@
   </di>
   <div>
     <h5>Otros Repositorios:</h5>
-    <img align="center" alt="Figue-Figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
+    <a href="https://codepen.io/mcfigue"><img align="center" alt="Figue-Figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" /></a>
   </div>
 </div>
   
