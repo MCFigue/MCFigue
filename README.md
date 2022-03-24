@@ -35,7 +35,8 @@
   </di>
   <div>
     <h5>Otros Repositorios:</h5>
-    <a href="https://codepen.io/mcfigue"><img align="center" alt="Figue-Figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" /></a>
+    <a href="https://codepen.io/mcfigue"><img align="center" alt="Figue-CodePen" height="30" target="_blank" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" /></a>
+    <a href="https://www.behance.net/danielfigue"><img align="center" alt="Figue-Behance" height="30" target="_blank" width="40"  src="https://1000marcas.net/wp-content/uploads/2021/02/Behance-Logo.png" /></a>
   </div>
 </div>
   
