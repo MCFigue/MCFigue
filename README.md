@@ -1,4 +1,4 @@
-## ¡Hola, soy Daniel, programador y amante del Diseño!
+## ¡Hola, soy Daniel programador y amante del Diseño!
 - 📷 Maquetador y Diseñador UI/UX
 - 📚 Estudiando:  <img align="center" alt="Rafa-Js" height="25" width="70" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img align="center" alt="Rafa-Js" height="25" width="70" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
