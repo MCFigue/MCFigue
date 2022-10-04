@@ -1,6 +1,6 @@
 ## ¡Hola, soy Daniel programador y amante del Diseño!
 - 📷 Maquetador y Diseñador UI/UX
-- 📚 Estudiando:  <img align="center" alt="Rafa-Js" height="25" width="70" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img align="center" alt="Rafa-Js" height="25" width="70" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+- 📚 Estudiando:  <img align="center" alt="Rafa-Js" height="25" width="70" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img align="center" alt="Rafa-Js" height="25" width="70" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img align="center" alt="Rafa-Js" height="25" width="85" src="https://camo.githubusercontent.com/773cfd323f61dbc7301a98e28c69fbd0f27f491272f4acf48106936ca1d14c47/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5479706553637269707426636f6c6f723d333137384336266c6f676f3d54797065536372697074266c6f676f436f6c6f723d464646464646266c6162656c3d">
 
 <div align="center">
   <a href="https://github.com/MCFigue">
@@ -20,9 +20,10 @@
 <div>
   <h4>Herramientas</h4>
   <div>
-      <img align="center" alt="Figue-WP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+      <img align="center" alt="Figue-WP" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" />
      <img align="center" alt="Figue-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    
+      <img align="center" alt="Figue-Adobe" height="35" width="35" src="https://helpx.adobe.com/content/dam/help/en/xd/get-started/jcr_content/main-pars/step_with_text/step-with-text-pars/imageandtext/imageandtextimage/XD.png" />
+
 
   </div>
   
@@ -37,6 +38,7 @@
     <h5>Otros Repositorios:</h5>
     <a href="https://codepen.io/mcfigue"><img align="center" alt="Figue-CodePen" height="30" target="_blank" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" /></a>
     <a href="https://www.behance.net/danielfigue"><img align="center" alt="Figue-Behance" height="30" target="_blank" width="50"  src="https://1000marcas.net/wp-content/uploads/2021/02/Behance-Logo.png" /></a>
+     <a href="https://gitlab.com/MCFigue"><img align="center" alt="Figue-Gitlab" height="30" target="_blank" width="30"  src="https://api.cloudron.io/api/v1/apps/com.gitlab.cloudronapp/versions/1.68.3/icon" /></a>
   </div>
 </div>
   
