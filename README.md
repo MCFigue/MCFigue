@@ -1,6 +1,6 @@
-## ¡Hola, soy Daniel programador y amante del Diseño!
-- 📷 Maquetador y Diseñador UI/UX
-- 📚 Estudiando:  <img align="center" alt="Rafa-Js" height="25" width="70" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img align="center" alt="Rafa-Js" height="25" width="70" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img align="center" alt="Rafa-Js" height="25" width="85" src="https://camo.githubusercontent.com/773cfd323f61dbc7301a98e28c69fbd0f27f491272f4acf48106936ca1d14c47/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5479706553637269707426636f6c6f723d333137384336266c6f676f3d54797065536372697074266c6f676f436f6c6f723d464646464646266c6162656c3d">
+## ¡Hola, soy Daniel !
+- 📷 Web Developer
+- 📚 Estudiante y apasionado de mi trabajo.  
 
 <div align="center">
   <a href="https://github.com/MCFigue">
@@ -8,9 +8,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCFigue&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+         <img align="center" title="Java" alt="Figue-java" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
+
   <img align="center" title="Javascript" alt="Figue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Figue-Sass" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+      <img align="center" alt="Figue-Sass" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />
+
    <img align="center" title="Java" alt="Figue-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
   <img align="center" title="MySql" alt="Figue-mysql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" title="MySql" alt="Figue-mysql" height="40" width="50"  src="https://mvpcluster.com/wp-content/uploads/2016/04/sql-server-1.png" />
   <img align="center" title="MySql" alt="Figue-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> 
   <img align="center" title="HTML" alt="Figue-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS"  alt="Figue-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -45,7 +52,7 @@
   ##
  
 <div> 
-  <a href = "https://msng.link/o/?@Figueroa_Daniel=tg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  
   <a href = "mailto:danielfigueroamillan2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-figueroa-millan-02693419b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
