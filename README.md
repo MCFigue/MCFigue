@@ -1,6 +1,6 @@
 ## ¡Hola, soy Daniel !
 - 📷 Web Developer
-- 📚 Estudiante y apasionado de mi trabajo.  
+- 📚 Estudiante y apasionado.  
 
 <div align="center">
   <a href="https://github.com/MCFigue">
