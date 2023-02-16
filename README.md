@@ -3,9 +3,9 @@
 - 📚 Estudiante y apasionado.  
 
 <div align="center">
-  <a href="https://github.com/MCFigue">
+<!--   <a href="https://github.com/MCFigue">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MCFigue&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCFigue&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCFigue&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
 <div style="display: inline_block"><br>
          <img align="center" title="Java" alt="Figue-java" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
