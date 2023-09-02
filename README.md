@@ -58,5 +58,4 @@
  
 
 </div>
-![](https://komarev.com/ghpvc/?username=mcfigue)
 
