@@ -58,6 +58,5 @@
  
 
 </div>
- <a href='http://www.freevisitorcounters.com'>Get Visitor Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ac0f36cbcbdefa0d01c0b7db07d6f9c525534ad8'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1069143/t/2"></script>
+![](https://komarev.com/ghpvc/?username=mcfigue)
 
